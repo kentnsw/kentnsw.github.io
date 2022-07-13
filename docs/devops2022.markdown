@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: DevOps Case Study
+permalink: /devops/
 ---
 
 # DevOps Case Study
