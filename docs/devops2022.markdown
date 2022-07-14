@@ -37,7 +37,7 @@ This report is written by a frontline engineer who is working on building a clou
 
 <img src="/images/devops-3ways.png" alt="The Three Ways" width="366">
 
-The project was started in September 2021 as a hobby project and got its goal re-defined as a cloud governance platform in January 2022. At the time of writing, it has been endorsed by the global engineering team including the APAC, AMER, and EMEA teams. It’s capable be extended to the operation, security, and architecture teams as well. Arguably it increased productivity by 10 times and changed the landscape of our governance tools. At the time of writing, the project has 30+ policies covering multiple areas and resources.
+The project was started in September 2021 as a hobby project and got its goal re-defined as a cloud governance platform in January 2022. At the time of writing, it has been endorsed by the global engineering team including the APAC, AMER, and EMEA teams. It’s capable be extended to the operations, security, and architecture teams as well. Arguably it increased productivity by 10 times and changed the landscape of our governance tools. At the time of writing, the project has 30+ policies covering multiple areas and resources.
 
 - Garbage collection, eg RDS
 - Cost optimization, eg EC2
