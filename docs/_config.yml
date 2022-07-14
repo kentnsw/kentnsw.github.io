@@ -23,7 +23,7 @@ title: Kent Ou
 description: >- # this means to ignore newlines until "baseurl:"
   Work, life, soliloquy.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.graphnews.net" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kentnsw.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: 
 github_username:  kentnsw
 

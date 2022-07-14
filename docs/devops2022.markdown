@@ -35,7 +35,7 @@ DevOps principles and practices are compatible with Agile, with many observing t
 
 This report is written by a frontline engineer who is working on building a cloud governance platform (the project) with an open-source tool Cloud Custodian. It’s for people who are interested in where we are and what we can do differently from a DevOps perspective. This report, inspired by The DevOps Handbook, is composed of 3 parts corresponding to The Three Ways: Flow, Feedback, and Continuous Improvement.
 
-<img src="_images/devops-3ways.png" alt="The Three Ways" width="366">
+<img src="images/devops-3ways.png" alt="The Three Ways" width="366">
 
 The project was started in September 2021 as a hobby project and got its goal re-defined as a cloud governance platform in January 2022. At the time of writing, it has been endorsed by the global engineering team including the APAC, AMER, and EMEA teams. It’s capable be extended to the operation, security, and architecture teams as well. Arguably it increased productivity by 10 times and changed the landscape of our governance tools. At the time of writing, the project has 30+ policies covering multiple areas and resources.
 
@@ -65,7 +65,7 @@ The project has 226 PRs to the main branch so far. In another word, there are a 
 
 Below is a fragment of the repo history. The blue line is the main branch, the red line is the develop branch and the other lines are feature branches.
 
-<img src="_images/repo-history.png" alt="Repo History" width="600">
+<img src="images/repo-history.png" alt="Repo History" width="600">
 
 As you can see, the Garbage Collect Elasticache and the Cost Optimize EC2 feature branches only lasted one day before they merged back to develop. Refactoring happened all the time on the develop branch, such as refined notes, DRYed (Don’t Repeat Yourself) code. Features are merged into main as a new deployable build once they are developed and tested.
 
@@ -165,7 +165,7 @@ But, that is not the messenger’s business, isn’t it?
 
 The “Wall of Confusion” is a DevOps term popularized by Andrew Clay Schafer (AgileRoots 2009 ~17:00 mark) and Lee Thompson (Dev2Ops Interview). It refers to the phenomena where one group in a value stream approaches their job as complete when they’ve passed it onto the next group.
 
-<img src="_images/the-wall-of-confusion.png" alt="The Wall of Confusion" width="274">
+<img src="images/the-wall-of-confusion.png" alt="The Wall of Confusion" width="274">
 
 Once a time, I asked a governance rule author a question: how will the rules be implemented? The author said it is out of scope. I agree with that according to the author’s responsibility. But, I don’t clearly see if it is in anyone’s scope. Without seeing it from an end-to-end perspective, I guess no one could answer
 
