@@ -33,7 +33,7 @@ Part 3: Continuous Improvement
 
 DevOps principles and practices are compatible with Agile, with many observing that DevOps is a logical continuation of the Agile journey that started in 2001. If DevOps is the right trend, we are 10 years late.
 
-This report is written by a frontline engineer who is working on building a cloud governance platform (the project) with an open-source tool Cloud Custodian. It’s for people who are interested in where we are and what we can do differently from a DevOps perspective. This report, inspired by The DevOps Handbook, is composed of 3 parts corresponding to The Three Ways: Flow, Feedback, and Continuous Improvement.
+This report is written by a frontline engineer who is working on building a cloud governance platform (the project) with an open-source tool Cloud Custodian. It’s for people who are interested in DevOps and what we can do differently from a DevOps perspective. This report, inspired by The DevOps Handbook, is composed of 3 parts corresponding to The Three Ways: Flow, Feedback, and Continuous Improvement.
 
 <img src="/images/devops-3ways.png" alt="The Three Ways" width="366">
 
@@ -41,8 +41,8 @@ The project was started in September 2021 as a hobby project and got its goal re
 
 - Garbage collection, eg RDS
 - Cost optimization, eg EC2
-- Monitoring
-- Scheduler
+- Monitoring, eg cost
+- Scheduler, eg nightly shutdown
 - Security Compliance, eg CIS Benchmarks
 
 ## Part 1: Enables Fast Flow
