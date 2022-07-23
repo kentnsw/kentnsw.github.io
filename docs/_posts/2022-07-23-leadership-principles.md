@@ -5,8 +5,6 @@ date: 2022-07-23 9:00:00 +1100
 categories: work
 ---
 
-# Leadership Principles
-
 These principles are connected, can be categoried into different layers.
 
 ## L3 TREER - Where you will be
