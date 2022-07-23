@@ -9,7 +9,7 @@ categories: work
 
 These principles are connected, can be categoried into different layers.
 
-## L3 TREER - Where you will be?
+## L3 TREER - Where you will be
 
 - Hire and Develop the Best (**E**mployees)
 - Strive to be Earth’s Best **E**mployer
@@ -17,7 +17,7 @@ These principles are connected, can be categoried into different layers.
 - Earn **T**rust
 - Are **R**ight, A Lot
 
-## L2 SSFAR - What you do?
+## L2 SSFAR - What you do
 
 - Invent and **S**implify
 - Insist on the Highest **S**tandards
@@ -25,7 +25,7 @@ These principles are connected, can be categoried into different layers.
 - Bias for **A**ction
 - Deliver **R**esults
 
-## L1 BOC,BLD - Who you are?
+## L1 BOC,BLD - Who you are
 
 - Think **B**ig
 - Dive **D**eep
