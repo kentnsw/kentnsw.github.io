@@ -2,7 +2,7 @@
 layout: post
 title: Value Stream - We are a delivery company
 date: 2022-04-25 12:00:00 +1100
-categories: work, value
+categories: work
 ---
 
 The first thing of being value-focus is to understand the value stream, starting from the business objectives, then user stories, specifications, codes/applications/services, until the value is delivered to customers.

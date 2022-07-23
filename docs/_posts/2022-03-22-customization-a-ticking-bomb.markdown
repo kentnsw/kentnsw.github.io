@@ -2,7 +2,7 @@
 layout: post
 title: Customization, a ticking bomb
 date: 2022-03-22 22:00:00 +1100
-categories: work, cloud custodian
+categories: work
 ---
 
 When using an open-source solution, we customise it more or less.

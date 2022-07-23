@@ -2,7 +2,7 @@
 layout: post
 title: How an elephant dies
 date: 2022-03-26 22:00:00 +1100
-categories: work, communication
+categories: work
 ---
 
 Communications across teams, departments are difficult as always.
